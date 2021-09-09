@@ -1,3 +1,6 @@
+Hosted Application Link:
+https://icaf2k21-blackpanthers.netlify.app/
+
 AF Conference management tool
 
 	First of all, you need to install NodeJs to the client environment. For this you can use the following link. Link: https://nodejs.org/en/download/
